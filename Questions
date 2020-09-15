@@ -1,20 +1,41 @@
 1. What Licensing Agreement did you choose and why?
 
-I chose to use the MIT license agreement because
+>I chose to use the MIT license agreement because it is permissive with hardly any restrictions on data use, 
+>but it requires the user to keep the permission notice and copyright notice, which basically gives the author credit.
 
 2. What are data archiving options are recommended by the Montana State University Library?
 
-GeoMapp
+>Montana State recomends that datasets be published in trustworthy data repositories such as, Dryad, Zenodo, ICPSR, 
+>or those listed with PLOS, Nature Scientific Data, and National Institutes of Health.
 
 3. How would using GitHub help make your data/code align with FAIR Protocols?
 
+>In using GitHub, there are ways to organize data that can be searchable and more easily accessed for future studies.
+>Using GitHub allows data to be easily cited with a clear licensing agreement for questions about reuse, redistribution, 
+>or manipulation of the dataset. GitHub also compiles all of the data
+>in a place where it can be discoverable and preserved into the future.
 
 4. What are the advantages of making your data/code more widely accessible?
 
->The advantages of making my data/code more widely accessible are that, it would be available to be searched, read, and reused for future research and study.
+>The advantages of making my data/code more widely accessible are that, it would be available to be searched, read, and 
+>reused for future research and study. This is helpful to both allow your work to be recognized and acknowledged in the
+>research community, and it allows for others to use your data to supplement their own studies so that they do not have
+>to "reinvent the wheel."
 
 5. What are the disadvantages of making your data/code more widely accessible?
 
+>The disadvantages of making your data/code more widely available are that, if you have no yet published that information,
+>your data could be incomplete and misleading, or it could be found and used by someone else for a similar purpose, 
+>which could diminish your chances of getting published.
+
 6. What data/code from your grad project would you envision publishing on GitHub?
 
+>I envision I could publish data, code from the compilations of my datasets and the results of my study.
+>Specifically, I am hoping my sample will be large and mostly anonymous, and so publishing my findings within
+>avalanche education and risk perception scores may be helpful for others interested in researching the subject.
+
 7. What data/code would you not publish? Why?
+
+>I would not publish data code that is sourced from privately entrusted files, such as .gpx tracks
+>from avalanche fatalities that were solely obtained for my own data analysis, and not shared publicly.
+>This would go against the ethic of respecting the entities that requested the maintained privacy of this information.
